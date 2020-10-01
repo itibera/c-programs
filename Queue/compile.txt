@@ -1,0 +1,2 @@
+Linear Queue:
+    gcc -o main main_queue.c queue.c
