@@ -1,0 +1,2 @@
+Stack Basic operation :
+    gcc -o main main_stack.c stack.c
